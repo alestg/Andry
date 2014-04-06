@@ -1,0 +1,31 @@
+.fondo{
+	width: 102%;
+
+}
+
+.centrar{
+	width: 100%;
+	position: absolute;
+	top:0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+
+}
+
+.abajo{
+	width: 100%;
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+
+.ajustar{
+	width: 100%;
+	top:0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+
+}
